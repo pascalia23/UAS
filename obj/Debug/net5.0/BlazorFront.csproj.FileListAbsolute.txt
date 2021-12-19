@@ -1,0 +1,1936 @@
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\BlazorFront.StaticWebAssets.xml
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\BlazorFront.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\ref\BlazorFront.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\BlazorFront.pdb
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\BlazorFront.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\BlazorFront.pdb
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.csproj.AssemblyReference.cache
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.AssemblyInfoInputs.cache
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.AssemblyInfo.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.csproj.CoreCompileInputs.cache
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.RazorComponent.input.cache
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.RazorComponent.output.cache
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\BlazorFront.dll
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.TagHelpers.input.cache
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.TagHelpers.output.cache
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.RazorCoreGenerate.cache
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\EnQWRsB4.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\QCIlgh5o.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\7u+xm3gC.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\5TU0sK19.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\rgmw6w9n.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\hIDTGPrP.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\EheQV1HZ.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\tMF3GSwP.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\w27N9LJc.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\XHoqL3OX.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\YD+dx7r+.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\ybwIhO6g.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\b19v23Zq.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\76VEgV6n.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\WzHuLd6J.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\2leiU6Bn.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\y+xTb23t.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\x+HkArKY.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\gYfBnCXq.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\0duAmsp0.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\y0YEXPqs.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\uctlXEhN.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\zWBrJoNG.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\staticwebassets\BlazorFront.StaticWebAssets.Manifest.cache
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\staticwebassets\BlazorFront.StaticWebAssets.xml
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\scopedcss\bundle\BlazorFront.styles.css
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\scopedcss\projectbundle\BlazorFront.bundle.scp.css
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.RazorTargetAssemblyInfo.cache
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.dll
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\ref\BlazorFront.dll
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.pdb
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\DepartmentPage.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\DepartmentPage.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\DetailDepartment.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\DetailDepartment.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeePage.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\EmployeePage.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\DetailEmployeePage.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\DetailEmployeePage.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.12.js.gz
+C:\Workshop\2021\blazor\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.12.js
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\11HZlGj6.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\ney1CfPF.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\JW+P3Aqw.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\PY+F7+Jb.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\E15AQ0ZV.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\+c5RVYgV.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\G+AhyQAH.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\ygSyz09d.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\XHFcsTfl.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\zHrYCzL5.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\FTVNABvz.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\3r4DmO6u.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\DaNdY++H.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\udlWL4Vb.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\IjYQjyzv.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\ZITViRuL.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\IiEVwmZh.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\KWMAc7ok.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\i+iATLM+.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\yJdI9Czb.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\RU+RQUT2.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\cvsy18w8.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\08hMIeMn.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\1+QFAzt9.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\yWEfWlAn.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\2HjxUrOO.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\s0mvMowN.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\iOg+89SZ.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\ApcmcKsg.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\mSxUFMPY.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\8U3ozhIa.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\qbgUR3eQ.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\8H7Sjbxp.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\Qre1X9Ix.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\7tl0ucoa.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\A+OgnrQa.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\if3d2STb.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\+e9Ekkzj.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\tNm7gAht.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\0NFCkNF+.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\P543BzhR.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\bk3cHD0T.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\bSls3ZYe.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\+VpyhhPt.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\Jm4QlnSh.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\EzafD+ma.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\FIuxEBhJ.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\gHB2+1Ef.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\2+Qzissn.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\U48h3jHV.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\CCLKp10f.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\H+CwR595.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\d7XgNVZ0.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\H2bLZV+S.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\Fom9ODU6.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\79YjYtaG.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\9r85ekh3.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\a4MRN7IR.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\0SejV4Cy.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\cV0UIPqX.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\xeMT6Q8u.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\p9+fqogq.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\HXcmk16d.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\pa+rnP7L.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\B2Iqm28S.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\fieGTPEC.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\2mlHJUb4.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\JB8DKTkB.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\UnY2LRzc.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\IJEjRNVm.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\KfZOHOMR.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\2f5ceMCw.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\9yAusiqj.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\O5mYhNfP.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\6zPNxErn.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\Hm27VKpQ.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\BZu0hogy.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\GoR2A6fJ.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\sGmnKTPa.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\JiHhllEt.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\AFx81UD6.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\n+FxXYAn.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\63ZFUeQj.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\ytC9nGLA.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\ZBZ2K1m6.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\M7vCFJiN.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\A0+ejkAP.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\nPVedDhB.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\6hxwHlzl.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\ykZNWccl.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\juQu6gxd.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\3bPIDc2f.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\PbxBoPQx.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\cE7fs0mB.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\jkVLXrn6.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\m5asDt+E.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\jk405rku.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\8d+q4XTV.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\K8LF+tSw.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\wJTddAZr.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\lMFtMPQz.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\UoB48yXA.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\OnqRxxrH.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\fQS7SmcN.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\MmeskdAl.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\ioJ5C97F.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\9UbRQpog.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\VDizlmnS.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\3ynvo6N4.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\iGQvzElB.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\gJBHsx4U.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\TYW+j9fW.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\Ui8BEdy+.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\lGAUWeQB.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\+GlpS94b.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\99ttsWPg.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\KnVIyl+1.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\tNsbPFDZ.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\vw2qfbwn.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\NulZU5eW.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\NN87A8gK.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\GcJIZu3b.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\5HhSOt2z.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\36MhY69Z.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\7qcID8Qb.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\aTn0qOmw.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\ZK9xYgx1.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\jpzq3CPY.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\FjWNM++P.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\vKax9eDE.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\p2xZ4xTG.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\2O8N5LdG.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\9VlbNDgL.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\DsCieWRA.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\GC+yIBnm.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\p+rA96la.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\eo1y1KBM.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\UsJ2Ib38.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\VwBMIS+n.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\sTgF0NtF.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\8suRH+wQ.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\EErgMLMC.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\LY6iVpZz.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\bAPif4wg.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\UZQ2se+x.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\GF3Zsrf2.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\GG74poWq.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\Hi64Y6h2.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\uIKeEEv6.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\1c4QVaYB.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\FnmRrZy+.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\KWJhkGq1.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\w1ejnT9g.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\Rsvtcsk0.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\jtQTFmGv.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\2ixlp+tU.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\q5doaqVS.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\pD4ezBIl.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\SzmGsOql.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\0AUYtJtz.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\68fPxJxv.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\OEL774bI.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\yq46wnrv.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\BkoS6Ys6.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\gHUkkY+q.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\YbOFtKbW.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\10U5GjyU.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\yGntMwVE.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\n4Tc0Soj.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\HHnswkR5.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\0GjyDel9.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\build-gz\5enahhnJ.gz
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\BlazorFront.csproj.CopyComplete
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\EditEmployee.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\EditEmployee.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\AddEmployee.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\AddEmployee.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\DeleteEmployee.razor.g.cs
+C:\Workshop\2021\blazor\BlazorFront\obj\Debug\net5.0\Razor\Pages\DeleteEmployee.razor.g.cs
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\BlazorFront\bin\Debug\net5.0\BlazorFront.StaticWebAssets.xml
+C:\BlazorFront\bin\Debug\net5.0\BlazorFront.dll
+C:\BlazorFront\bin\Debug\net5.0\ref\BlazorFront.dll
+C:\BlazorFront\bin\Debug\net5.0\BlazorFront.pdb
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\BlazorFront.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\BlazorFront.pdb
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.11.js.gz
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\BlazorFront\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.11.js
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.csproj.AssemblyReference.cache
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.AssemblyInfoInputs.cache
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.AssemblyInfo.cs
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.csproj.CoreCompileInputs.cache
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.MvcApplicationPartsAssemblyInfo.cache
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.RazorComponent.input.cache
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\AddEmployee.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\DeleteEmployee.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\DepartmentPage.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\DetailDepartment.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\DetailEmployeePage.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\EditEmployee.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeePage.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.RazorComponent.output.cache
+C:\BlazorFront\obj\Debug\net5.0\RazorDeclaration\BlazorFront.dll
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.TagHelpers.input.cache
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.TagHelpers.output.cache
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.RazorCoreGenerate.cache
+C:\BlazorFront\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Pages\AddEmployee.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Pages\DeleteEmployee.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Pages\DepartmentPage.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Pages\DetailDepartment.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Pages\DetailEmployeePage.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Pages\EditEmployee.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Pages\EmployeePage.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\BlazorFront\obj\Debug\net5.0\build-gz\s2CbhQU8.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\lFaD0oH4.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\sOhHAiYF.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\aIOL06Lj.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\2KqPXXKK.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\SmyOSp9l.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\gBZ0OP7J.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\PSH5r6XY.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\zkK7YUni.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\6YvRYdkJ.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\oAJAaKRq.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\LC54KwKG.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\+prdGi1R.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\EDIRZ9Gm.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\g2pVriUV.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\yY++uH3r.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\DqADZBsx.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\PsUZk8WP.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\PFtW+gTP.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\qmdVsGkQ.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\eG3IQ988.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\yxpD4xGn.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\WdjpE3eM.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\MQqiZuj2.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\38+a9mTb.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\PPoCl+HU.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\b+xphHAp.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\W5MyW+r5.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\HiXhoDdc.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\RKvUgtWy.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\sToQUGMc.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\DWrhx8um.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\VFMxv+K9.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\9abjfNua.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\yHEV+Iij.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\I9RlOEnK.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\MgWulLaA.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\rt4C+Jis.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\zXJD+1vO.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\9s7NtWfH.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\TZaeFXb+.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\1AtXC5zu.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\53Kz6DtI.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\rM+QIH88.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\hyP1PdnS.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\GFlqCzsr.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\BdFD+5f9.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\srvLfWMZ.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\qGgzl+1G.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Q4xyndBb.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\gGt1PbE1.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\N8s6Kcaj.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\dTqEryie.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Iq75Gk5R.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\MP+roBjr.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\bXCghCOn.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\QkAuWhQQ.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\LoaiUhA3.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\BTOT4Lrs.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\gWObb0+6.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Gse9Lw+6.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\1dV6MFt1.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\eafbdg0a.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\B0NePiJ2.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\m+ojteU1.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\hThczcIx.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\uiAt1ats.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\LB6fS6L9.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Msz0K7mg.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\WdZTMnot.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\5TMZTZxO.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\AcH1sVpA.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\ZH0GfXu+.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\4cQOnxtz.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\uxK2Aq1Q.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\yGfBAnZG.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\+ewZK6an.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\DM+qc7ce.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\+Eo62VmQ.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Oz+ZRz0D.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\EF2r9Mw9.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\WY6STnIi.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\AsuoxiT5.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\7KoGD3XL.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\QPED2IsB.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\1Ew3kEtb.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\2xUU05mx.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\ud0H9PeE.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\MecFLMpM.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\KirTT+9J.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Gqdd3On3.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\peRFNUQb.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\xn+q2QX+.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\2xCNsqd1.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\3gAOq1tV.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\H3WpeRBc.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\H9NP6fV+.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\DGOQvvUv.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\70Q2wjzL.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Cdw5Ocey.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\9AvUmTXT.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\9dyWsfEF.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\JTih4ljV.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\SxmX4q3a.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Y8nnZmt+.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\+k+3blcG.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\sTsst+uv.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\uN50uTP7.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\AW4KmFwG.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\xNu1usRX.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\6IqnQVoo.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\hAv1F++4.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\wtPynqjd.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\NRizTX2N.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Eh0K7Jgr.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\I5rxy48l.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\FIuRPL3c.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\j3xWVlOF.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Q2V2hbFQ.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\qTi2nLH+.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\81LeJ4YD.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\fcf8CSAg.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\75ZAE9b5.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\M86lgfTX.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\dgOli6Ll.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Dj0NmpqB.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\g6M1PUYB.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\NULUyWD+.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\8bzrnlfu.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\x+fviEih.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\KSsZsVOL.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\XemUSEPw.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\tdZtJGan.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\GlGLenam.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\pzDecUci.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\aBEV2TL9.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\pjrRCtDC.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\m3TsxB+x.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\UOpTZmsK.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Ah3RGzMn.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\pTk6Ibsd.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\hmX9PScE.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\BSryWB+u.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\DSnJOfQn.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\EZN07zc2.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\6ykcXsIC.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\alqsLhUF.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\PCqpTQHW.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\tnP8E+NN.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\G2VH162q.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\9LdzTZ6f.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\yt24GyiL.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\HxhSc99z.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\t0hTPXos.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\F5zLcA+A.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\+Jd0hCkI.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\1mc+bV6s.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\2FNDyghK.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\hYqkivOk.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\shdW8t6O.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\fG7E6xNM.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\SaZY0vms.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\yGMeAM2+.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\cGvnAxdz.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\X4bsYk6X.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\Hq4Ma2aA.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\b6LYldHn.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\ZNHAzVgc.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\sDHNpcKT.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\b8VjLt+p.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\MWm1CesO.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\FBZleeTA.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\5i4gmyyf.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\YIjazkvh.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\MIlf8q+x.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\+4aXB++I.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\YoXgQvMa.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\lBqrBINx.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\c+2D6LUn.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\vhM5U8bw.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\0djfxlV0.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\qiIFjxYQ.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\j1nmoPeg.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\+uLF53L8.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\KgMGyyJD.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\+DyjEeqx.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\JVHog67j.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\YW8BePEo.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\r+BQYF+h.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\iNJl5haL.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\qIzVgzWS.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\FQvxsRDH.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\8z3mcv+Z.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\emNyqYXI.gz
+C:\BlazorFront\obj\Debug\net5.0\build-gz\AvaXYMxJ.gz
+C:\BlazorFront\obj\Debug\net5.0\staticwebassets\BlazorFront.StaticWebAssets.Manifest.cache
+C:\BlazorFront\obj\Debug\net5.0\staticwebassets\BlazorFront.StaticWebAssets.xml
+C:\BlazorFront\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\BlazorFront\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\BlazorFront\obj\Debug\net5.0\scopedcss\bundle\BlazorFront.styles.css
+C:\BlazorFront\obj\Debug\net5.0\scopedcss\projectbundle\BlazorFront.bundle.scp.css
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.RazorTargetAssemblyInfo.cache
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.dll
+C:\BlazorFront\obj\Debug\net5.0\ref\BlazorFront.dll
+C:\BlazorFront\obj\Debug\net5.0\BlazorFront.pdb
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\BlazorFront - Copy\bin\Debug\net5.0\BlazorFront.StaticWebAssets.xml
+C:\BlazorFront - Copy\bin\Debug\net5.0\BlazorFront.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\ref\BlazorFront.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\BlazorFront.pdb
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\BlazorFront.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\BlazorFront.pdb
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.11.js.gz
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\BlazorFront - Copy\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.11.js
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.csproj.AssemblyReference.cache
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.AssemblyInfoInputs.cache
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.AssemblyInfo.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.csproj.CoreCompileInputs.cache
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.MvcApplicationPartsAssemblyInfo.cache
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.RazorComponent.input.cache
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Pages\AddEmployee.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Pages\DeleteEmployee.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Pages\DepartmentPage.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Pages\DetailDepartment.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Pages\DetailEmployeePage.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Pages\EditEmployee.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeePage.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.RazorComponent.output.cache
+C:\BlazorFront - Copy\obj\Debug\net5.0\RazorDeclaration\BlazorFront.dll
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.TagHelpers.input.cache
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.TagHelpers.output.cache
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.RazorCoreGenerate.cache
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Pages\AddEmployee.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Pages\DeleteEmployee.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Pages\DepartmentPage.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Pages\DetailDepartment.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Pages\DetailEmployeePage.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Pages\EditEmployee.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Pages\EmployeePage.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\s2CbhQU8.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\lFaD0oH4.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\sOhHAiYF.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\aIOL06Lj.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\2KqPXXKK.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\SmyOSp9l.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\gBZ0OP7J.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\PSH5r6XY.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\zkK7YUni.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\6YvRYdkJ.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\oAJAaKRq.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\LC54KwKG.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\+prdGi1R.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\EDIRZ9Gm.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\g2pVriUV.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\yY++uH3r.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\DqADZBsx.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\PsUZk8WP.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\PFtW+gTP.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\qmdVsGkQ.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\eG3IQ988.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\yxpD4xGn.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\WdjpE3eM.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\MQqiZuj2.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\38+a9mTb.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\PPoCl+HU.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\b+xphHAp.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\W5MyW+r5.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\HiXhoDdc.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\RKvUgtWy.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\sToQUGMc.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\DWrhx8um.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\VFMxv+K9.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\9abjfNua.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\yHEV+Iij.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\I9RlOEnK.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\MgWulLaA.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\rt4C+Jis.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\zXJD+1vO.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\9s7NtWfH.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\TZaeFXb+.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\1AtXC5zu.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\53Kz6DtI.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\rM+QIH88.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\hyP1PdnS.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\GFlqCzsr.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\BdFD+5f9.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\srvLfWMZ.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\qGgzl+1G.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Q4xyndBb.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\gGt1PbE1.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\N8s6Kcaj.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\dTqEryie.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Iq75Gk5R.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\MP+roBjr.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\bXCghCOn.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\QkAuWhQQ.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\LoaiUhA3.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\BTOT4Lrs.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\gWObb0+6.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Gse9Lw+6.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\1dV6MFt1.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\eafbdg0a.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\B0NePiJ2.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\m+ojteU1.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\hThczcIx.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\uiAt1ats.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\LB6fS6L9.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Msz0K7mg.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\WdZTMnot.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\5TMZTZxO.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\AcH1sVpA.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\ZH0GfXu+.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\4cQOnxtz.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\uxK2Aq1Q.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\yGfBAnZG.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\+ewZK6an.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\DM+qc7ce.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\+Eo62VmQ.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Oz+ZRz0D.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\EF2r9Mw9.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\WY6STnIi.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\AsuoxiT5.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\7KoGD3XL.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\QPED2IsB.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\1Ew3kEtb.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\2xUU05mx.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\ud0H9PeE.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\MecFLMpM.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\KirTT+9J.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Gqdd3On3.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\peRFNUQb.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\xn+q2QX+.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\2xCNsqd1.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\3gAOq1tV.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\H3WpeRBc.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\H9NP6fV+.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\DGOQvvUv.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\70Q2wjzL.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Cdw5Ocey.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\9AvUmTXT.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\9dyWsfEF.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\JTih4ljV.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\SxmX4q3a.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Y8nnZmt+.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\+k+3blcG.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\sTsst+uv.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\uN50uTP7.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\AW4KmFwG.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\xNu1usRX.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\6IqnQVoo.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\hAv1F++4.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\wtPynqjd.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\NRizTX2N.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Eh0K7Jgr.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\I5rxy48l.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\FIuRPL3c.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\j3xWVlOF.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Q2V2hbFQ.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\qTi2nLH+.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\81LeJ4YD.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\fcf8CSAg.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\75ZAE9b5.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\M86lgfTX.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\dgOli6Ll.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Dj0NmpqB.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\g6M1PUYB.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\NULUyWD+.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\8bzrnlfu.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\x+fviEih.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\KSsZsVOL.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\XemUSEPw.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\tdZtJGan.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\GlGLenam.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\pzDecUci.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\aBEV2TL9.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\pjrRCtDC.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\m3TsxB+x.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\UOpTZmsK.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Ah3RGzMn.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\pTk6Ibsd.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\hmX9PScE.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\BSryWB+u.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\DSnJOfQn.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\EZN07zc2.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\6ykcXsIC.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\alqsLhUF.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\PCqpTQHW.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\tnP8E+NN.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\G2VH162q.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\9LdzTZ6f.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\yt24GyiL.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\HxhSc99z.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\t0hTPXos.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\F5zLcA+A.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\+Jd0hCkI.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\1mc+bV6s.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\2FNDyghK.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\hYqkivOk.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\shdW8t6O.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\fG7E6xNM.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\SaZY0vms.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\yGMeAM2+.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\cGvnAxdz.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\X4bsYk6X.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\Hq4Ma2aA.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\b6LYldHn.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\ZNHAzVgc.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\sDHNpcKT.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\b8VjLt+p.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\MWm1CesO.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\FBZleeTA.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\5i4gmyyf.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\YIjazkvh.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\MIlf8q+x.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\+4aXB++I.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\YoXgQvMa.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\lBqrBINx.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\c+2D6LUn.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\vhM5U8bw.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\0djfxlV0.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\qiIFjxYQ.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\j1nmoPeg.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\+uLF53L8.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\KgMGyyJD.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\+DyjEeqx.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\JVHog67j.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\YW8BePEo.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\r+BQYF+h.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\iNJl5haL.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\qIzVgzWS.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\FQvxsRDH.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\8z3mcv+Z.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\emNyqYXI.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\build-gz\4uGT7+2s.gz
+C:\BlazorFront - Copy\obj\Debug\net5.0\staticwebassets\BlazorFront.StaticWebAssets.Manifest.cache
+C:\BlazorFront - Copy\obj\Debug\net5.0\staticwebassets\BlazorFront.StaticWebAssets.xml
+C:\BlazorFront - Copy\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\BlazorFront - Copy\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\BlazorFront - Copy\obj\Debug\net5.0\scopedcss\bundle\BlazorFront.styles.css
+C:\BlazorFront - Copy\obj\Debug\net5.0\scopedcss\projectbundle\BlazorFront.bundle.scp.css
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.RazorTargetAssemblyInfo.cache
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.dll
+C:\BlazorFront - Copy\obj\Debug\net5.0\ref\BlazorFront.dll
+C:\BlazorFront - Copy\obj\Debug\net5.0\BlazorFront.pdb

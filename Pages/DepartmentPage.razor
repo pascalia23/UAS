@@ -1,0 +1,31 @@
+@page "/departmentpage"
+
+<h3>Daftar Students</h3>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>NIM</th>
+            <th>Nama Belakang</th>
+             <th>Nama Depan</th>
+              <th>Tanggal Masuk</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var dept in Departments){
+            <tr>
+                <td>@dept.DepartmentId</td>
+                <td>@dept.DepartmentName</td>
+                <td>@dept.DepartmentId</td>
+                <td>@dept.DepartmentName</td>
+
+                <td><a href="@($"departmentdetail/{dept.DepartmentId}")" class="btn btn-info">detail</a>
+                  <a href="@($"departmentdetail/{dept.DepartmentId}")" class="btn btn-primary">enroll</a>
+                    <a href="@($"departmentdetail/{dept.DepartmentId}")" class="btn btn-warning">edit</a>
+                      <a href="@($"departmentdetail/{dept.DepartmentId}")" class="btn btn-danger">delete</a></td>
+                      
+            </tr>
+        }
+    </tbody>
+</table>
